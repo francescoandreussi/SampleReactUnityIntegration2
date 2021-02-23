@@ -620,31 +620,31 @@
       <HintPath>C:/Users/francesco/Documents/Unity Projects/2019.4.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/Struckd_Test_2021/SampleReactUnityIntegration/SimpleThirdPersonShooter/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/Struckd_Test_2021/SampleReactUnityIntegration/SampleReactUnityIntegration/SimpleThirdPersonShooter/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/Struckd_Test_2021/SampleReactUnityIntegration/SimpleThirdPersonShooter/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/Struckd_Test_2021/SampleReactUnityIntegration/SampleReactUnityIntegration/SimpleThirdPersonShooter/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Struckd_Test_2021/SampleReactUnityIntegration/SimpleThirdPersonShooter/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Struckd_Test_2021/SampleReactUnityIntegration/SampleReactUnityIntegration/SimpleThirdPersonShooter/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/Struckd_Test_2021/SampleReactUnityIntegration/SimpleThirdPersonShooter/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/Struckd_Test_2021/SampleReactUnityIntegration/SampleReactUnityIntegration/SimpleThirdPersonShooter/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/Struckd_Test_2021/SampleReactUnityIntegration/SimpleThirdPersonShooter/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/Struckd_Test_2021/SampleReactUnityIntegration/SampleReactUnityIntegration/SimpleThirdPersonShooter/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Struckd_Test_2021/SampleReactUnityIntegration/SimpleThirdPersonShooter/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Struckd_Test_2021/SampleReactUnityIntegration/SampleReactUnityIntegration/SimpleThirdPersonShooter/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/Struckd_Test_2021/SampleReactUnityIntegration/SimpleThirdPersonShooter/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/Struckd_Test_2021/SampleReactUnityIntegration/SampleReactUnityIntegration/SimpleThirdPersonShooter/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Struckd_Test_2021/SampleReactUnityIntegration/SimpleThirdPersonShooter/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Struckd_Test_2021/SampleReactUnityIntegration/SampleReactUnityIntegration/SimpleThirdPersonShooter/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/Struckd_Test_2021/SampleReactUnityIntegration/SimpleThirdPersonShooter/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/Struckd_Test_2021/SampleReactUnityIntegration/SampleReactUnityIntegration/SimpleThirdPersonShooter/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
